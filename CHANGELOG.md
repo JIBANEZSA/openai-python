@@ -1,5 +1,19 @@
 # Changelog
 
+## 1.6.2 (2023-12-27)
+
+Full Changelog: [v1.6.1...v1.6.2](https://github.com/openai/openai-python/compare/v1.6.1...v1.6.2)
+
+### Chores
+
+* **src:** fix typos ([#988](https://github.com/openai/openai-python/issues/988)) ([6a8b806](https://github.com/openai/openai-python/commit/6a8b80624636f9a0e5ada151b2509710a6f74808))
+
+
+### Documentation
+
+* fix docstring typos ([#1022](https://github.com/openai/openai-python/issues/1022)) ([ad3fd2c](https://github.com/openai/openai-python/commit/ad3fd2cd19bf91f94473e368554dff39a8f9ad16))
+* improve audio example to show how to stream to a file ([#1017](https://github.com/openai/openai-python/issues/1017)) ([d45ed7f](https://github.com/openai/openai-python/commit/d45ed7f0513b167555ae875f1877fa205c5790d2))
+
 ## 1.6.1 (2023-12-22)
 
 Full Changelog: [v1.6.0...v1.6.1](https://github.com/openai/openai-python/compare/v1.6.0...v1.6.1)
